@@ -30,7 +30,7 @@
 ## Homepartners Of America（ 2017年6月 ~ 2018年9月 ）
 
 ### New Website
-负责搭建了HPA新的官网架构， 建立了以Vue服务器渲染+Node中间件为基础的网站架构，对比之前Ruby on Rails的架构，提高了网站的易用性和可维护性，大幅度提供了Google Insight的网站评分
+负责搭建了HPA新的官网架构， 建立了以Vue服务器渲染+Node中间件为基础的网站架构，对比之前Ruby on Rails的架构，提高了网站的易用性和可维护性，大幅度提高了Google Insight的网站评分
 
 
 ### PMP 租约和房屋后台管理系统
